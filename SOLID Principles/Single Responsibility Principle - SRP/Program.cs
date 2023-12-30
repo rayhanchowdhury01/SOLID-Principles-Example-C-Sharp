@@ -94,16 +94,21 @@ namespace Valid_SRP
         /*In this context:
          BankAccount has Single responsibility - Transaction- related operation
          StatementPrinter focuses on printing the statement
-         
-         The StatementPrinter class is dedicated to printing statements. 
-         If there's a need to change the format or medium of the statement,
-         modifications are exclusive to the StatementPrinter class. 
-         The BankAccount class has nothing to do with that
         */
             
         
     }
 }
+
+/* 
+In the first example, the BankAccount class violates the Single Responsibility 
+Principle by handling both transactions and statement generation. This hinders code maintainability.
+
+In the SRP-compliant example, responsibilities are separated. The BankAccount class deals only with transactions, 
+while the StatementPrinter class is dedicated to printing statements. This adheres to SRP, enhancing code modularity and maintainability.
+*/
+
+
 /* OutPut:
 Statement for Account: 708090100
 Deposited $100000. New Balance: $100000
