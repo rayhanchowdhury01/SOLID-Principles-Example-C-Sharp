@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Single Responsibility Principle - SRP/1.0.0": {
+        "runtime": {
+          "Single Responsibility Principle - SRP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Single Responsibility Principle - SRP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

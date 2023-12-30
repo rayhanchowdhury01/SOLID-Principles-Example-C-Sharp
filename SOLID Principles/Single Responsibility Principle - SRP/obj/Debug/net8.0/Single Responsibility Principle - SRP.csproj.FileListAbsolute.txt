@@ -1,0 +1,14 @@
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\bin\Debug\net8.0\Single Responsibility Principle - SRP.exe
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\bin\Debug\net8.0\Single Responsibility Principle - SRP.deps.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\bin\Debug\net8.0\Single Responsibility Principle - SRP.runtimeconfig.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\bin\Debug\net8.0\Single Responsibility Principle - SRP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\bin\Debug\net8.0\Single Responsibility Principle - SRP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\Single Responsibility Principle - SRP.GeneratedMSBuildEditorConfig.editorconfig
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\Single Responsibility Principle - SRP.AssemblyInfoInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\Single Responsibility Principle - SRP.AssemblyInfo.cs
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\Single Responsibility Principle - SRP.csproj.CoreCompileInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\Single Responsibility Principle - SRP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\refint\Single Responsibility Principle - SRP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\Single Responsibility Principle - SRP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\Single Responsibility Principle - SRP.genruntimeconfig.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Single Responsibility Principle - SRP\obj\Debug\net8.0\ref\Single Responsibility Principle - SRP.dll

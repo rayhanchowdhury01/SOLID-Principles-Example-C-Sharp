@@ -1,0 +1,14 @@
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\bin\Debug\net8.0\Open Closed Principle - OCP.exe
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\bin\Debug\net8.0\Open Closed Principle - OCP.deps.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\bin\Debug\net8.0\Open Closed Principle - OCP.runtimeconfig.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\bin\Debug\net8.0\Open Closed Principle - OCP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\bin\Debug\net8.0\Open Closed Principle - OCP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\Open Closed Principle - OCP.GeneratedMSBuildEditorConfig.editorconfig
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\Open Closed Principle - OCP.AssemblyInfoInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\Open Closed Principle - OCP.AssemblyInfo.cs
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\Open Closed Principle - OCP.csproj.CoreCompileInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\Open Closed Principle - OCP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\refint\Open Closed Principle - OCP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\Open Closed Principle - OCP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\Open Closed Principle - OCP.genruntimeconfig.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Open Closed Principle - OCP\obj\Debug\net8.0\ref\Open Closed Principle - OCP.dll
