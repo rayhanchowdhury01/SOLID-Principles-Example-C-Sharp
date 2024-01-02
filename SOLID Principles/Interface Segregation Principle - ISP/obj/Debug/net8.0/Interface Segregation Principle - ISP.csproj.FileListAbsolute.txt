@@ -1,0 +1,15 @@
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\bin\Debug\net8.0\Interface Segregation Principle - ISP.exe
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\bin\Debug\net8.0\Interface Segregation Principle - ISP.deps.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\bin\Debug\net8.0\Interface Segregation Principle - ISP.runtimeconfig.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\bin\Debug\net8.0\Interface Segregation Principle - ISP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\bin\Debug\net8.0\Interface Segregation Principle - ISP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\Interface Segregation Principle - ISP.GeneratedMSBuildEditorConfig.editorconfig
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\Interface Segregation Principle - ISP.AssemblyInfoInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\Interface Segregation Principle - ISP.AssemblyInfo.cs
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\Interface Segregation Principle - ISP.csproj.CoreCompileInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\Interface Segregation Principle - ISP.sourcelink.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\Interface Segregation Principle - ISP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\refint\Interface Segregation Principle - ISP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\Interface Segregation Principle - ISP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\Interface Segregation Principle - ISP.genruntimeconfig.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Interface Segregation Principle - ISP\obj\Debug\net8.0\ref\Interface Segregation Principle - ISP.dll
