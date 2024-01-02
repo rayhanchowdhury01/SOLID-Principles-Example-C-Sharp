@@ -1,0 +1,15 @@
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\bin\Debug\net8.0\Dependency Inversion Principl - DIP.exe
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\bin\Debug\net8.0\Dependency Inversion Principl - DIP.deps.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\bin\Debug\net8.0\Dependency Inversion Principl - DIP.runtimeconfig.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\bin\Debug\net8.0\Dependency Inversion Principl - DIP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\bin\Debug\net8.0\Dependency Inversion Principl - DIP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\Dependency Inversion Principl - DIP.GeneratedMSBuildEditorConfig.editorconfig
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\Dependency Inversion Principl - DIP.AssemblyInfoInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\Dependency Inversion Principl - DIP.AssemblyInfo.cs
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\Dependency Inversion Principl - DIP.csproj.CoreCompileInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\Dependency Inversion Principl - DIP.sourcelink.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\Dependency Inversion Principl - DIP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\refint\Dependency Inversion Principl - DIP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\Dependency Inversion Principl - DIP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\Dependency Inversion Principl - DIP.genruntimeconfig.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Dependency Inversion Principl - DIP\obj\Debug\net8.0\ref\Dependency Inversion Principl - DIP.dll
