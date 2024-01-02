@@ -1,0 +1,15 @@
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\bin\Debug\net8.0\Liskov Substitution Principle - LSP.exe
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\bin\Debug\net8.0\Liskov Substitution Principle - LSP.deps.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\bin\Debug\net8.0\Liskov Substitution Principle - LSP.runtimeconfig.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\bin\Debug\net8.0\Liskov Substitution Principle - LSP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\bin\Debug\net8.0\Liskov Substitution Principle - LSP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\Liskov Substitution Principle - LSP.GeneratedMSBuildEditorConfig.editorconfig
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\Liskov Substitution Principle - LSP.AssemblyInfoInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\Liskov Substitution Principle - LSP.AssemblyInfo.cs
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\Liskov Substitution Principle - LSP.csproj.CoreCompileInputs.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\Liskov Substitution Principle - LSP.sourcelink.json
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\Liskov Substitution Principle - LSP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\refint\Liskov Substitution Principle - LSP.dll
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\Liskov Substitution Principle - LSP.pdb
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\Liskov Substitution Principle - LSP.genruntimeconfig.cache
+P:\SOLID-Principles-Example-C-Sharp\SOLID Principles\Liskov Substitution Principle - LSP\obj\Debug\net8.0\ref\Liskov Substitution Principle - LSP.dll
